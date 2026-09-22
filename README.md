@@ -42,5 +42,5 @@ building android + web apps
 <img src="https://img.shields.io/badge/CLOUDFLARE-F6821F?style=for-the-badge&logo=cloudflare&logoColor=white" />
 <img src="https://img.shields.io/badge/ORACLE_CLOUD-C74634?style=for-the-badge" />
 <img src="https://img.shields.io/badge/KOYEB-121212?style=for-the-badge&logo=koyeb&logoColor=white" />
-<img src="https://img.shields.io/badge/TERMUX-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TERMUX-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
