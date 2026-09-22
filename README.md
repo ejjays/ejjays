@@ -29,7 +29,7 @@ building android + web apps
 <img src="https://img.shields.io/badge/EXPO-000020?style=for-the-badge&logo=expo&logoColor=white" />
 <img src="https://img.shields.io/badge/REACT_NATIVE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/FIREBASE-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/GETSTREAM-005FFF?style=for-the-badge&logo=stream&logoColor=white" />
+<img src="https://img.shields.io/badge/GETSTREAM-005FFF?style=for-the-badge" />
 </p>
 
 <h3 align="center">Tools & Build</h3>
@@ -40,6 +40,6 @@ building android + web apps
 <img src="https://img.shields.io/badge/EAS-000000?style=for-the-badge&logo=expo&logoColor=white" />
 <img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/CLOUDFLARE-F6821F?style=for-the-badge&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/ORACLE_CLOUD-C74634?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/ORACLE_CLOUD-C74634?style=for-the-badge" />
 <img src="https://img.shields.io/badge/KOYEB-121212?style=for-the-badge&logo=koyeb&logoColor=white" />
 </p>
