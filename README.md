@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  <samp>&gt; building open-source apps that solve common problems with unofficial solutions.</samp>
+  <samp>&gt; Building open-source apps that solve common problems with unofficial solutions.</samp>
 </h3>
 
 <br>
