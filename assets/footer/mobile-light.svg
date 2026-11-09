@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="277.08" height="24" viewBox="0 0 277.08 24" role="img" aria-label="$ reverse engineering, mostly">
+  <title>$ reverse engineering, mostly</title>
+  <style>
+    .p { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 16px; }
+    .d { fill: #1a7f37; filter: drop-shadow(0 0 4px rgba(26,127,55,0.35)); }
+    .s { fill: #24292f; }
+    .t {
+      fill: #24292f;
+      animation: rev 6s steps(7, end) 0.4s infinite;
+    }
+    @keyframes rev {
+      0%   { clip-path: inset(0 0 0 100%) }
+      23%  { clip-path: inset(0 0 0 0) }
+      100% { clip-path: inset(0 0 0 0) }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .t { animation: none }
+    }
+  </style>
+  <text class="p d" x="0" y="17.6">$</text>
+  <text class="p t" x="14.88" y="17.6" textLength="67.2" lengthAdjust="spacingAndGlyphs">reverse</text>
+  <text class="p s" x="91.68" y="17.6" textLength="182.4" lengthAdjust="spacingAndGlyphs">engineering, mostly</text>
+</svg>
