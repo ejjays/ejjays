@@ -50,10 +50,10 @@
 
 <p align="center">
   <picture>
-    <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="assets/footer/mobile-dark.svg" />
-    <source media="(max-width: 768px)" srcset="assets/footer/mobile-light.svg" />
-    <source media="(prefers-color-scheme: dark)" srcset="assets/footer/desktop-dark.svg" />
-    <img src="assets/footer/desktop-light.svg" alt="$ reverse engineering, mostly" />
+    <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="assets/footer/mobile-dark.svg?v=2" />
+    <source media="(max-width: 768px)" srcset="assets/footer/mobile-light.svg?v=2" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/footer/desktop-dark.svg?v=2" />
+    <img src="assets/footer/desktop-light.svg?v=2" alt="reverse engineering, mostly" />
   </picture>
 </p>
 
