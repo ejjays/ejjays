@@ -7,7 +7,7 @@
     <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="assets/tagline/mobile-dark.svg" />
     <source media="(max-width: 768px)" srcset="assets/tagline/mobile-light.svg" />
     <source media="(prefers-color-scheme: dark)" srcset="assets/tagline/desktop-dark.svg" />
-    <img src="assets/tagline/desktop-light.svg" alt="building open-source apps that solve common problems with unofficial solutions" />
+    <img src="assets/tagline/desktop-light.svg" alt="building open-source tools that solve common problems with unofficial solutions" />
   </picture>
 </p>
 
