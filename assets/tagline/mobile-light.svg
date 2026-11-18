@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="338" height="84" viewBox="0 0 338 84" role="img" aria-label="> building open-source apps that solve common problems with unofficial solutions.">
-  <title>> building open-source apps that solve common problems with unofficial solutions.</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="338" height="84" viewBox="0 0 338 84" role="img" aria-label="> building open-source tools that solve common problems with unofficial solutions.">
+  <title>> building open-source tools that solve common problems with unofficial solutions.</title>
   <style>
     text {
       font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;
       font-size: 20px;
       fill: #24292f;
     }
-    .t1 { animation: r1 0.59s steps(27, end) 0.2s both; }
+    .t1 { animation: r1 0.59s steps(28, end) 0.2s both; }
     @keyframes r1 { from { clip-path: inset(0 100% 0 0) } to { clip-path: inset(0 0 0 0) } }
     .t2 { animation: r2 0.57s steps(26, end) 0.76s both; }
     @keyframes r2 { from { clip-path: inset(0 100% 0 0) } to { clip-path: inset(0 0 0 0) } }
@@ -19,7 +19,7 @@
       .cur { animation: none; opacity: 1 }
     }
   </style>
-  <text class="t1" x="169" y="22" text-anchor="middle" textLength="324" lengthAdjust="spacingAndGlyphs">&gt; building open-source apps</text>
+  <text class="t1" x="169" y="22" text-anchor="middle" textLength="324" lengthAdjust="spacingAndGlyphs">&gt; building open-source tools</text>
   <text class="t2" x="169" y="48" text-anchor="middle" textLength="312" lengthAdjust="spacingAndGlyphs">that solve common problems</text>
   <text class="t3" x="169" y="74" text-anchor="middle" textLength="312" lengthAdjust="spacingAndGlyphs">with unofficial solutions.</text>
   <rect class="cur" x="328.0" y="57" width="3" height="20" rx="1.5"/>
